@@ -1,6 +1,6 @@
 # The Sun Eduworld
 # Program in C , to find maximum amongst two nos.
-
+```
 #include<stdio.h>
 #include<conio.h>
 
@@ -18,5 +18,5 @@ int main()
 
 return 0;
 }
-
+```
 
