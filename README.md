@@ -10,7 +10,7 @@ int main()
   printf("\nEnter First number : ");
   scanf(%d",&a);
   printf("\nEnter Second number : ");
-  scanf(%d",&b);
+  scanf("%d",&b);
   if(a>max)
     max=a;
   if (b>max)
