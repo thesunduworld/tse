@@ -8,7 +8,7 @@ int main()
 {
   int a,b,max=0;
   printf("\nEnter First number : ");
-  scanf(%d",&a);
+  scanf("%d",&a);
   printf("\nEnter Second number : ");
   scanf("%d",&b);
   if(a>max)
